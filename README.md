@@ -1,2 +1,2 @@
 
-- https://edoc.ku.ac.th/singin
+- https://edoc.ku.ac.th/signin
